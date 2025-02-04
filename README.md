@@ -8,8 +8,14 @@ This project aims to predict air quality levels using machine learning models ba
 - Data pre-processing (handling missing data, normalization)
 - Feature engineering (e.g., pollutant trends over time)
 - Multiple machine learning models implemented:
-- Decision Tree, K-Nearest Neighbors, Random Forest, and Support Vector Machine
-- Model evaluation using accuracy, mean squared error (MSE), and R² score
+    - Decision Tree,
+    - K-Nearest Neighbors,
+    - Random Forest,
+    - Support Vector Machine
+- Model evaluation using
+    - accuracy,
+    - mean squared error (MSE)
+    - R² score
 - Cross-validation and visualization of model performance
 
 ## Technologies:
